@@ -25,6 +25,8 @@ Learn how to use Mapbox and Asynchronous Programming
 
 -Asynchronous Programming: https://www.w3schools.com/js/js_asynchronous.asp
 
+# Next Steps:
+
 # Programming Languages used
 1) Javascript
 2) HTML
