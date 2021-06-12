@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+	<script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+	<link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+	<link rel="stylesheet" href="./styles.css">
+    
+    <title>My Realtime Bus Tracker</title>
+
+</head>
+<body>
+
+    <script src="./realTimeBusTracker.json"></script>
+
+    <div id="map"></div>
+    <div class="map-overlay">
+        <button onclick="move()">Current Bus Location</button>
+    </div>
+
+    <script src="./busTracker.js"></script>
+    
+</body>
+</html>
