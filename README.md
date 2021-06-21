@@ -1,6 +1,8 @@
 # Real Time Bus Tracker 
 
-# Version 1 - Week 9: Asynchronous Programming and Mapping (MIT XPro, June 2021)
+<img src="" width="300px"/>
+
+## Version 1 - Week 9: Asynchronous Programming and Mapping (MIT XPro, June 2021)
 
 # Description
 
