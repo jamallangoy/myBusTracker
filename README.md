@@ -1,6 +1,6 @@
 # Real Time Bus Tracker 
 
-<img src="" width="300px"/>
+<img src="https://github.com/jamallangoy/realTimeBusTracker/blob/main/magicBusImage.jpg" width="300px"/>
 
 ## Version 1 - Week 9: Asynchronous Programming and Mapping (MIT XPro, June 2021)
 
